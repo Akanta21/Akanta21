@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrian Kanta</h1>
 <h3 align="center">A product-centric developer with keen passion in data and Web2.5</h3>
 
-- 🔭 I’m currently working on **Checkout Experience @xendit**
+- 🔭 I’m currently working on **@farmio-io**
 
 - 🌱 I’m currently learning **Rust and Cosmwasm**
 
